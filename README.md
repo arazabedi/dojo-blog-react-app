@@ -1,3 +1,5 @@
+I learned the basics of React by running through how to make this blog application on Net Ninja's YouTube tutorial video series. - Araz
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
